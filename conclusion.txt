@@ -1,0 +1,4 @@
+The most challenging part of this assignment was making sure I was in the correct repository and branch at each step. 
+Also, it was challenging to understand which branch I needed to be in when doing a git push/pull. I learned the 
+importance of branching in Git - creating a separate branch allows me to work on things without affecting the original 
+file. 
